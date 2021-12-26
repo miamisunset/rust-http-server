@@ -25,7 +25,7 @@ impl WebsiteHandler {
                     None
                 }
             }
-            Err(_) => None
+            Err(_) => None,
         }
     }
 }
