@@ -1,4 +1,4 @@
-use crate::http::{Response, Request, StatusCode};
+use crate::http::{Request, Response, StatusCode};
 
 use super::server::Handler;
 
